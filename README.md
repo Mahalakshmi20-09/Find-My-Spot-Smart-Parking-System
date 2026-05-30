@@ -35,4 +35,6 @@ Find My Spot is a Smart Parking Management System designed to simplify the parki
 - Java
 - Object-Oriented Programming
 - Java Swing
-- MySQL (if used)
+- HTML
+- Java script
+- CSS
