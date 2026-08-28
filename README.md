@@ -26,18 +26,15 @@ The project provides both a **console-based interface** and a **Java Swing graph
 
 ## Project Structure
 
-```text
 Find-My-Spot-Smart-Parking-System/
 │
 ├── README.md
 │
-└── Mini_project/
-    ├── Main.java
-    ├── ParkingSpot.java
-    ├── ParkingSpotImpl.java
-    ├── ParkingSystem.java
-    └── ParkingSystemGUI.java
-```
+├── Main.java
+├── ParkingSpot.java
+├── ParkingSpotImpl.java
+├── ParkingSystem.java
+├── ParkingSystemGUI.java
 
 ## How It Works
 
