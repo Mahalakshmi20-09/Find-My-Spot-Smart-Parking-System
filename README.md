@@ -24,8 +24,9 @@ The project provides both a **console-based interface** and a **Java Swing graph
 * User-friendly Java Swing GUI
 * Console-based parking management
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 Find-My-Spot-Smart-Parking-System/
 │
 ├── README.md
@@ -34,7 +35,20 @@ Find-My-Spot-Smart-Parking-System/
 ├── ParkingSpot.java
 ├── ParkingSpotImpl.java
 ├── ParkingSystem.java
-├── ParkingSystemGUI.java
+└── ParkingSystemGUI.java
+```
+
+### 📄 File Description
+
+| File                    | Description                                                 |
+| ----------------------- | ----------------------------------------------------------- |
+| `Main.java`             | Console-based entry point for the parking system            |
+| `ParkingSpot.java`      | Interface defining parking spot operations                  |
+| `ParkingSpotImpl.java`  | Implementation of the `ParkingSpot` interface               |
+| `ParkingSystem.java`    | Manages parking spots, selection, and reservation logic     |
+| `ParkingSystemGUI.java` | Java Swing graphical user interface for booking and payment |
+| `README.md`             | Project documentation and usage instructions                |
+
 
 ## How It Works
 
